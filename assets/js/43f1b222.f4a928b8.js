@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmobile_core_documentation=self.webpackChunkmobile_core_documentation||[]).push([[4347],{2922:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/mobileCore-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

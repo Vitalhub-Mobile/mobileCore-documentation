@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmobile_core_documentation=self.webpackChunkmobile_core_documentation||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/mobileCore-documentation/blog","blogTitle":"Blog","authorsListPath":"/mobileCore-documentation/blog/authors"}')}}]);
